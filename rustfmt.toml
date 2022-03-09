@@ -1,0 +1,8 @@
+edition = "2021"
+
+imports_layout = "HorizontalVertical"
+indent_style = "Visual"
+newline_style = "Unix"
+reorder_import = true
+chain_width = 60
+
